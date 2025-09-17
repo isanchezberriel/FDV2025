@@ -10,6 +10,7 @@ public class miCofre : MonoBehaviour
     void Start()
     {
         tamano = 3;
+        Color.red;
         Debug.Log(tamano);
     }
 
